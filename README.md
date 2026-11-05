@@ -37,3 +37,16 @@ This project analyzes airline flight, passenger, airport, and ticket data using 
 ## Key Findings
 _Add your findings here after reviewing the query results._
 
+## Query Results
+
+### Airline Revenue Analysis
+![Airline Revenue Analysis](fdaQ7.PNG)
+
+### Passenger Airline Usage
+![Passenger Airline Usage](fdaQ8.PNG)
+
+### Highest Ticket Price by Route
+![Highest Ticket Price by Route](fdaQ9.PNG)
+
+### Passenger Spending Analysis
+![Passenger Spending Analysis](fdaQ10.PNG)
