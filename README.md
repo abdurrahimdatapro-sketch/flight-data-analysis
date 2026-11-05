@@ -35,7 +35,10 @@ This project analyzes airline flight, passenger, airport, and ticket data using 
 - `FlightDataAnalysis.sql` — SQL queries used for the analysis
 
 ## Key Findings
-_Add your findings here after reviewing the query results._
+
+- **Airline revenue:** Delta Airlines generated the highest total revenue, with 16 tickets sold and total revenue of 93,600.
+- **Passenger spending:** The highest-spending passenger in the Silver frequent flyer group spent 26,000 across 4 tickets.
+- **Passenger airline usage:** The analysis identifies each passenger’s most frequently used airline, including ties when multiple airlines have equal usage.
 
 ## Query Results
 
